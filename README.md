@@ -105,6 +105,7 @@ Removed features with high multicollinearity.
 Identified top predictors for each outcome.
 Script:
 04_FeatureEngineering_FeatureSelection/feature_selection_vif_rfe.py
+
 Results: rfe_results.csv, vif_table.csv
 
 # Results & Insights
@@ -150,6 +151,12 @@ Results: rfe_results.csv, vif_table.csv
 - Strongest predictors: achievements, number of tags, metacritic score, language support, price.
 - Final model explains ~51% of variance (R² = 0.51).
 - All predictors are highly statistically significant (p < 0.001).
+
+Game success on Steam is driven more by quality indicators like Metacritic score, price and achievements, than by violence 
+
+Player engagement is highest in games with more achievement rewarded to players, while user ratings are mainly influenced by price and language support. Critical acclaim (metacritic score) seems to be a high predictor for both models.
+
+Violence and genre variety have minimal impact, highlighting that perceived quality and inclusivity  matter the most.
 
 ## Visual Diagnostics
 #### Coefficient Path Plots:
