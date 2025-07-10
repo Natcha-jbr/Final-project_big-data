@@ -179,7 +179,7 @@ Residual Plots:
 - 111ZU1053 Karin Sumritluan 陳琪玲
 
 # Acknowledgments
-We would like to sincerely thank you Professor Pien Chung-Pei and our Teacher Assistant Marcy in our Big Data for Social for Social Analysis class for their advice and assistance throughout the development of our project. Their expertise and knowledge have been helpful for developing our project and guiding us in overcoming obstacles.
+We would like to sincerely thank you Professor Pien Chung-Pei and our Teacher Assistant Marcella in our Big Data for Social for Social Analysis class for their advice and assistance throughout the development of our project. Their expertise and knowledge have been helpful for developing our project and guiding us in overcoming obstacles.
 ity and effectiveness of project 
 
 Thank you to each member of the team who is involved in this project. Your effort, dedication, and hard works were crucial for the project success.
